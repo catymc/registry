@@ -1,0 +1,4 @@
+version: 1
+variants:
+  spigot: ViaVersion-4.5.1.jar
+  paper: ViaVersion-4.5.1.jar
